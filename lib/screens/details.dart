@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'dart:async';
 import '../components/scheme.dart';
-import './extraDetails.dart';
+import 'extraDetails.dart';
 
 class UsersApp extends StatefulWidget {
   @override
